@@ -1,0 +1,9 @@
+{
+  "enabledCssSnippets": [
+    "centered-images",
+    "centered-tables",
+    "rounded-images",
+    "hide-properties"
+  ],
+  "accentColor": ""
+}
